@@ -74,3 +74,11 @@ total: 450.5KB
 ```bash
 javac Main.java
 ```
+
+
+### Запуск
+
+```bash
+java Main
+```
+
